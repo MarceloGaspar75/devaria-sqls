@@ -1,0 +1,1 @@
+# Repositorio 2  referente aos scripts SQL do módulo Banco de Dados da Formação Devaria
